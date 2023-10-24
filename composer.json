@@ -1,0 +1,15 @@
+{
+    "require": {
+        "hhvm/hhvm-autoload": "^3.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "hhvm/hhvm-autoload": true
+        }
+    },
+    "require-dev": {
+        "hhvm/hhast": "^4.168",
+        "hhvm/hacktest": "^2.4",
+        "facebook/fbexpect": "^2.9"
+    }
+}
